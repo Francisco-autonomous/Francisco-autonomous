@@ -1,6 +1,5 @@
 ## Saudações! Eu sou Francisco Ribeiro 🤖
 
-
 Um excêntrico estudante de Engenharia Mecatrônica - Controle e Automação da Universidade de Brasília apaixonado por ficção científica, matemática e programação. Atualmente, faço parte do capítulo estudantil RAS (Robotics and Automation Society) da IEEE (Institute of Electrical and Electronics Enginners) UnB como voluntário do projeto Edubot. 
 
 
