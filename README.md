@@ -1,10 +1,11 @@
 ## Saudações! Eu sou Francisco Ribeiro 🤖
 
-Um excêntrico estudante de Engenharia Mecatrônica - Controle e Automação da Universidade de Brasília apaixonado por ficção científica, matemática e programação. Atualmente, faço parte do capítulo estudantil RAS (Robotics and Automation Society) da IEEE (Institute of Electrical and Electronics Enginners) UnB como voluntário do projeto Edubot. 
+Um excêntrico estudante de Engenharia Mecatrônica - Controle e Automação da Universidade de Brasília apaixonado por ficção científica, matemática e programação. Atualmente, faço parte do capítulo estudantil RAS (Robotics and Automation Society) da IEEE (Institute of Electrical and Electronics Enginners) UnB como voluntário do projeto Edubot e do Comsocc UnB(IEEE Communications Society) como tesoureiro e organizador de competições. 
 
 
 [![RAS](https://img.shields.io/website?label=RAS&style=for-the-badge&url=https://edu.ieee.org/br-unbras/ras/)](https://edu.ieee.org/br-unbras/ras/)
 [![Edubot](https://img.shields.io/website?label=EDUBOT&style=for-the-badge&url=https://edu.ieee.org/br-unbras/edubot/)](https://edu.ieee.org/br-unbras/edubot/)
+
 
 ## 👨🏽‍💻 Tech Stack
 Utilização de duas principais linguagens de programação que auxiliam nos projetos de automação e robótica.
