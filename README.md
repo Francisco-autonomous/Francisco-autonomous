@@ -1,4 +1,4 @@
-## Saudações! Eu sou Francisco Ribeiro 🤖
+## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Bebas+Neue&size=40&pause=1000&color=22769B&random=false&width=435&lines=Sauda%C3%A7%C3%B5es!+Sou+o+Francisco+Ribeiro+%F0%9F%A4%96)](https://git.io/typing-svg)
 
 Um excêntrico estudante de Engenharia Mecatrônica - Controle e Automação da Universidade de Brasília apaixonado por ficção científica, matemática e programação. Atualmente, faço parte do capítulo estudantil RAS UnB (Robotics and Automation Society) da IEEE (Institute of Electrical and Electronics Enginners) como voluntário do projeto Edubot e do ComSoc UnB (IEEE Communications Society) como tesoureiro e organizador de competições. 
 
