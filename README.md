@@ -2,7 +2,9 @@
 
 Um excêntrico estudante de Engenharia Mecatrônica - Controle e Automação da Universidade de Brasília apaixonado por ficção científica, matemática e programação. Atualmente, faço parte do capítulo estudantil RAS UnB (Robotics and Automation Society) da IEEE (Institute of Electrical and Electronics Enginners) como voluntário do projeto Edubot e do ComSoc UnB (IEEE Communications Society) como tesoureiro e organizador de competições. 
 
+Atualmente trabalha como estagiário no conjunto de empresas mais conceituadas de automoção predial em Brasília/DF, MC2 Engenharia e AQ3 engenharia.   
 
+[![MC2](https://img.shields.io/website?label=MC2/AQ3&style=for-the-badge&url=https://www.instagram.com/mc2eng/)]([https://edu.ieee.org/br-unbras/ras/](https://www.instagram.com/mc2eng/))
 [![RAS](https://img.shields.io/website?label=RAS&style=for-the-badge&url=https://edu.ieee.org/br-unbras/ras/)](https://edu.ieee.org/br-unbras/ras/)
 [![Edubot](https://img.shields.io/website?label=EDUBOT&style=for-the-badge&url=https://edu.ieee.org/br-unbras/edubot/)](https://edu.ieee.org/br-unbras/edubot/)
 [![ComSoc](https://img.shields.io/website?label=ComSoc&style=for-the-badge&url=https://www.instagram.com/comsocunb/?hl=pt)](https://www.instagram.com/comsocunb/?hl=pt)
