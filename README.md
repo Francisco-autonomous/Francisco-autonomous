@@ -4,7 +4,7 @@ Um excêntrico estudante de Engenharia Mecatrônica - Controle e Automação da 
 
 Atualmente trabalha como estagiário no conjunto de empresas mais conceituadas de automoção predial em Brasília/DF, MC2 Engenharia e AQ3 engenharia.   
 
-[![MC2](https://img.shields.io/website?label=MC2/AQ3&style=for-the-badge&url=https://www.instagram.com/mc2eng/)](https://www.instagram.com/mc2eng/))
+[![MC2](https://img.shields.io/website?label=MC2/AQ3&style=for-the-badge&url=https://www.instagram.com/mc2eng/)](https://www.instagram.com/mc2eng/)
 [![RAS](https://img.shields.io/website?label=RAS&style=for-the-badge&url=https://edu.ieee.org/br-unbras/ras/)](https://edu.ieee.org/br-unbras/ras/)
 [![Edubot](https://img.shields.io/website?label=EDUBOT&style=for-the-badge&url=https://edu.ieee.org/br-unbras/edubot/)](https://edu.ieee.org/br-unbras/edubot/)
 [![ComSoc](https://img.shields.io/website?label=ComSoc&style=for-the-badge&url=https://www.instagram.com/comsocunb/?hl=pt)](https://www.instagram.com/comsocunb/?hl=pt)
@@ -15,10 +15,6 @@ Utilização de duas principais linguagens de programação que auxiliam nos pro
 
 ![python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-
-
-
-
 
 ## 🌐 Socials
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_megamano/)
